@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "AutoLlama",
+  "version": "1.0",
+  "description": "Automatically send llamas",
+  "permissions": ["activeTab", "*://*.devianart.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["*://*.devianart.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "48": "images/kret48.png"
+  }
+}
