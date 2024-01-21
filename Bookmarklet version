@@ -1,0 +1,1 @@
+javascript:(function() {   var buttons = document.querySelectorAll('.oclb');   buttons.forEach(function(button) {       button.click();   }); })();
