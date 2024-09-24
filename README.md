@@ -1,6 +1,6 @@
 # Auto llama
 
-Automatically send llamas to people in Devianart!
+Automatically send llamas to people in Devianart!!
 
 Requirements:
 
