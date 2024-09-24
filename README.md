@@ -12,5 +12,6 @@ Requirements:
 - Select any file within your extension's directory to load the entire folder as an extension.
 
 # if it doesnt work
+
 Copy the bookmarklet version and paste into your bookmarks tab as a new link
 it wont automatically do it, but it still works
